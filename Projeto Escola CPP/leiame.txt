@@ -1,0 +1,1 @@
+Site desenvolvido para escola de cursos fictícia com o intuito de praticar habilidades das linguagens html e css.
